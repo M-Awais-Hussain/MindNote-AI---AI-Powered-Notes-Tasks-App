@@ -257,7 +257,7 @@ CREATE TABLE tasks(
 1. **Clone the Repository**
    ```bash
    git clone <repository-url>
-   cd Notes
+   cd "MindNote-AI---AI-Powered-Notes-Tasks-App"
    ```
 
 2. **Install Dependencies**
